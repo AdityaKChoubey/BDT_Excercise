@@ -36,14 +36,6 @@ These examples are meant for:
 * Understanding why BDTs outperform linear classifiers in many problems
 * Demonstrating classifier performance in a simple and controlled setting
 
-## Future Additions
-
-Planned additions include:
-
-* More complex toy datasets
-* Feature correlation studies
-* Decision boundary visualizations
-* Comparison with other classifiers (e.g., neural networks)
 
 ## Author
 
